@@ -31,5 +31,12 @@
   "homepage": "https://github.com/lanoixdesign/martiniquereveilletoi#readme",
   "devDependencies": {
     "@angular/cli": "10.2.0"
+  },
+  "dependencies": {
+    "@ionic/angular": "^5.4.2",
+    "@ionic/react": "^5.4.2",
+    "@ionic/react-router": "^5.4.2",
+    "@ionic/vue": "^5.4.2",
+    "@ionic/vue-router": "^5.4.2"
   }
 }
