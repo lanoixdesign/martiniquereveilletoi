@@ -1,0 +1,35 @@
+{
+  "name": "martiniquereveilletoi",
+  "version": "1.0.0",
+  "description": "notification de sujet de prière pour la Martinique et les Antilles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanoixdesign/martiniquereveilletoi.git"
+  },
+  "keywords": [
+    "prière",
+    "martinique",
+    "antilles-guyane",
+    "fort",
+    "de",
+    "france",
+    "église",
+    "évangélique",
+    "de",
+    "la",
+    "martiniqe"
+  ],
+  "author": "EphrataDesign.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanoixdesign/martiniquereveilletoi/issues"
+  },
+  "homepage": "https://github.com/lanoixdesign/martiniquereveilletoi#readme",
+  "devDependencies": {
+    "@angular/cli": "10.2.0"
+  }
+}
